@@ -5,7 +5,7 @@ Simple Calculator Made In Android Studio
 
 Portrait View With Negatives
 
-<img src="https://github.com/RushanB/Calculator/blob/master/INSTRUCTIONS/Portrait%20with%20Negative.png" width="400" height="700"> 
+<img src="https://github.com/Cernim53/Calculator_Android/blob/main/Calculator-master/INSTRUCTIONS/Portrait%20with%20Negative.png" width="400" height="700"> 
 
 ## How to Use
 
